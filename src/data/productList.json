@@ -1,0 +1,88 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Retriever Golden",
+      "detail": "Retriever Golden",
+      "price": 70,
+      "imageUrl": "https://images.dog.ceo/breeds/retriever-golden/n02099601_2663.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Australian Shepherd",
+      "detail": "Australian Shepherd",
+      "price": 129,
+      "imageUrl": "https://images.dog.ceo/breeds/australian-shepherd/sadie.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Ridgeback Rhodesian",
+      "detail": "Ridgeback Rhodesian",
+      "price": 91,
+      "imageUrl": "https://images.dog.ceo/breeds/ridgeback-rhodesian/n02087394_7771.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Chow",
+      "detail": "Chow",
+      "price": 47,
+      "imageUrl": "https://images.dog.ceo/breeds/chow/n02112137_5114.jpg"
+    },
+    {
+      "id": "5",
+      "name": "New Found Land",
+      "detail": "New found land",
+      "price": 95,
+      "imageUrl": "https://images.dog.ceo/breeds/newfoundland/n02111277_5183.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Wolf Hound Irish",
+      "detail": "Wolf Hound Irish",
+      "price": 89,
+      "imageUrl": "https://images.dog.ceo/breeds/wolfhound-irish/n02090721_3398.jpg"
+    },
+    {
+      "id": "7",
+      "name": "Pomeranian",
+      "detail": "Pomeranian",
+      "price": 45,
+      "imageUrl": "https://images.dog.ceo/breeds/pomeranian/n02112018_612.jpg"
+    },
+    {
+      "id": "8",
+      "name": "Dane Great",
+      "detail": "Dane Great",
+      "price": 12,
+      "imageUrl": "https://images.dog.ceo/breeds/dane-great/n02109047_22193.jpg"
+    },
+    {
+      "id": "9",
+      "name": "Pekinese",
+      "detail": "Pekinese",
+      "price": 39,
+      "imageUrl": "https://images.dog.ceo/breeds/pekinese/n02086079_17205.jpg"
+    },
+    {
+      "id": "10",
+      "name": "Sheepdog English",
+      "detail": "Sheepdog English",
+      "price": 102,
+      "imageUrl": "https://images.dog.ceo/breeds/sheepdog-english/n02105641_727.jpg"
+    },
+    {
+      "id": "11",
+      "name": "Weimaraner",
+      "detail": "Weimaraner",
+      "price": 82,
+      "imageUrl": "https://images.dog.ceo/breeds/weimaraner/n02092339_6334.jpg"
+    },
+    {
+      "id": "12",
+      "name": "Kuvasz",
+      "detail": "Kuvasz",
+      "price": 55,
+      "imageUrl": "https://images.dog.ceo/breeds/kuvasz/n02104029_3787.jpg"
+    }
+  ]
+}
