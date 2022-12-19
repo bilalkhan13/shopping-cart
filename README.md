@@ -8,6 +8,7 @@ A project for exploring react toolkit.
 2. In case of failure we can get product from json file.
 3. We can add & remove products from cart.
 4. We can clear all items from cart.
+5. Use state management library @reduxjs/toolkit for state management.
 
 ## Project Structure:
 
